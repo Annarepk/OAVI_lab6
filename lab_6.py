@@ -1,5 +1,4 @@
 from segmentation import binImg, segmentation, profiles, imgChar, characterProfiles
-import matplotlib.pyplot as plt
 
 fontPath = "times_new_roman.ttf"
 fontSize = 52
